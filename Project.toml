@@ -1,7 +1,7 @@
 name = "RegistratorTest"
 uuid = "e7a89a10-4a7b-11e9-2d06-77ef4a220776"
 authors = ["Kristoffer Carlsson <kcarlsson89@gmail.com>"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
