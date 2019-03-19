@@ -1,0 +1,4 @@
+name = "RegistratorTest"
+uuid = "e7a89a10-4a7b-11e9-2d06-77ef4a220776"
+authors = ["Kristoffer Carlsson <kcarlsson89@gmail.com>"]
+version = "0.1.0"
